@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.H1-text{
+    @apply text-5xl font-extrabold  text-[#404040] 
+}
